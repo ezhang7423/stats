@@ -38,7 +38,7 @@ interesting_schools = [
 ]
 
 for school in interesting_schools:
-    print(f"Admission statistics for {school}\n")
+    print(f"**{school}**\n")
     sel_school = get_school(school, full)
     for yr in interesting_years:
         ds = get_yr(yr, sel_school)
@@ -48,7 +48,7 @@ for school in interesting_schools:
         ):
             acceptance = "No data"
 
-        print(f"{yr}: {acceptance}")
+        print(f"{yr}: {acceptance}\n")
     print("\n\n\n")
 
 print(
