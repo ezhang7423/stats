@@ -1,6 +1,6 @@
 # stats
 
-grad school stats from gradcafe and https://github.com/jjdelvalle/gradcafe_analysis
+phd accpetance rate stats from gradcafe and https://github.com/jjdelvalle/gradcafe_analysis
 
 
 Admission statistics for Stanford University
